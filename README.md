@@ -1,6 +1,6 @@
 #=========================================
-Hey! I made this because finding a job is not easy these days.
 
+Hey! I made this because finding a job is not easy these days.
 Before use, this puppy needs google custom search API and a custom search engine id to work.
 #=========================================
 - Import the requests and csv modules.
